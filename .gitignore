@@ -1,0 +1,5 @@
+.terraform
+.terraform.lock.hcl
+*.tfvars
+.terraform.tfstate
+Azure account details.txt
